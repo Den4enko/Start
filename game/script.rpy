@@ -29,4 +29,7 @@ label start:
 
     "Но никто не ответил"
 
+label part2:
+
+    a "Дарова чмо"
     return
