@@ -7,3 +7,4 @@ errors.txt
 *.save
 game/saves/navigation.json
 game/gui/desktop.ini
+*.bak
